@@ -1,0 +1,93 @@
+{
+    "api/v1/todo": [
+      {
+        "id": 1,
+        "text": "Food Canteen",
+        "amount": 200,
+        "currency": "sgd",
+        "user": 1
+      },
+      {
+        "id": 2,
+        "text": "Shopping",
+        "amount": 2000,
+        "currency": "idr",
+        "user": 2
+      }
+    ],
+    "api/v1/users": [
+      {
+        "id": 1,
+        "fullName": "Rajith Shaji",
+        "roles": ["admin"],
+        "status": "active",
+        "email": "rajith@volopay.co",
+        "phone": {
+          "callingCode": "+91",
+          "number": 8959687158
+        },
+        "dob": "1992-08-07T11:47:51.489+08:00"
+      },
+      {
+        "id": 2,
+        "fullName": "Harry Callum",
+        "role": "accountant",
+        "status": "active",
+        "email": "harry@volopay.co",
+        "phone": {
+          "callingCode": "+91",
+          "number": 9989346789
+        },
+        "dob": "1995-07-06T11:47:51.489+08:00"
+      },
+      {
+        "id": 3,
+        "fullName": "Yardley Mason",
+        "role": "accountant",
+        "status": "active",
+        "email": "yardley@volopay.co",
+        "phone": {
+          "callingCode": "866",
+          "number": 3231411
+        },
+        "dob": "1993-07-09T11:47:51.489+08:00"
+      },
+      {
+        "id": 4,
+        "fullName": "Jessica Lauren",
+        "role": "employee",
+        "status": "active",
+        "email": "jessicca@volopay.co",
+        "phone": {
+          "callingCode": "+91",
+          "number": 998938764
+        },
+        "dob": "1992-05-03T11:47:51.489+08:00"
+      },
+      {
+        "id": 5,
+        "fullName": "Preston Browning",
+        "role": "employee",
+        "status": "active",
+        "email": "preston@volopay.co",
+        "phone": {
+          "callingCode": "866",
+          "number": 3231411
+        },
+        "dob": "1995-07-09T11:47:51.489+08:00"
+      },
+      {
+        "id": 6,
+        "fullName": "Jenny Wilson",
+        "role": "admin",
+        "status": "active",
+        "email": "jenny.wa@volopay.co",
+        "phone": {
+          "callingCode": "077",
+          "number": 35349533
+        },
+        "dob": "1996-09-01T11:47:51.489+08:00"
+      }
+    ]
+  }
+  
